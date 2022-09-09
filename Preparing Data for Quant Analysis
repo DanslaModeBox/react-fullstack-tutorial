@@ -1,0 +1,22 @@
+date/time = {
+    "Name": {'Net_Contr': 
+         req.crypto-denomn [Avax, Cordana, SDAO, Ergo],
+         'GBP_value': 'Node_value': 'User_ID'}
+         set var = crypto-denomn{crypto-value / GBP.value *%}
+         % crypto-value = "volatility_proxy_fiat";
+         %endpoint crypto-value - [x1, crypto-value] =
+         set var = "daily range"
+         "daily range" (crypto-demomn){%endpoint crypto-value - [x1, crypto-value];
+         for (crypto-denomn [Avax, Cordana, SDAO, Ergo, +=1]) ;
+         console.log "daily range" pprint
+         import pprint
+         request pprint;
+         
+         
+       req.MongoDB/atlas: UserID# 
+       SELECT User_ID FROM User_Emails HAVING GROUP by crypto-denomn.cryptovalue
+       WHERE (xrange) [user_ID, "daily range",] [x1+n, y+- Ud] 
+       Ud const var = <<!!set required volatility constant based on desired disturbance term re: discord objectives//
+       
+       Based on regression analysis model of 1-4 constants assumed under market beta model of CAPM>>
+       
